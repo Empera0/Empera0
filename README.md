@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="![bannerCV](https://github.com/Empera0/Empera0/assets/63954402/1264d4a8-069b-4f09-82b2-e5915a2b5ec0)"  />
+  <img height="200" src="https://github.com/Empera0/Empera0/assets/63954402/1264d4a8-069b-4f09-82b2-e5915a2b5ec0"  />
 </div>
 
 ###
