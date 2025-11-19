@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">💿 KeepItDev Developer | RNT23 Sales and Data Operations Assistant 💽</p>
+<p align="center">💿 KeepItDev Developer </p>
 
 ###
 
