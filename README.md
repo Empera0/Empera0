@@ -1,12 +1,23 @@
 <div align="center">
   <img height="200" src="https://github.com/Empera0/Empera0/assets/63954402/1264d4a8-069b-4f09-82b2-e5915a2b5ec0"  />
 </div>
-
-###
-
-<p align="center">💿 KeepItDev Developer </p>
-
-###
+—
+ 
+idgaf
+ 
+—
+ 
+    Java / JVM          backend, tooling, plugins
+    Commerce            e-commerce & inventory systems
+    Textile             industry-specific software
+    Minecraft           Paper · Spigot · Bukkit
+    Open source         by default
+ 
+—
+ 
+    ~  Blog        ·  [BlogSite](https://blogsite-8up.pages.dev/)
+    ~  language    ·  Turkish +++++ / English ++++ / Japanese+
+ 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/oguzgrncan/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /> </a>
