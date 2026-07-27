@@ -15,7 +15,7 @@ idgaf
  
 —
  
-    ~  Blog        ·  [BlogSite](https://blogsite-8up.pages.dev/)
+    ~  Blog        ·  https://blogsite-8up.pages.dev/
     ~  language    ·  Turkish +++++ / English ++++ / Japanese+
  
 
